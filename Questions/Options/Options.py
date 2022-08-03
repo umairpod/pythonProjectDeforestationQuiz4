@@ -1,0 +1,10 @@
+options = [["A. The loss of fish habitats", "B. The loss of forest habitats", "C. The loss of ground habitats",
+            "D. the loss of all habitats"],
+           ["A. 50%", "B. 75%", "C. 110%", "D. 68.5%"],
+           ["A. 18 million", "B. 12.6 million", "C. 17 million", "D. 100 million"],
+           ["A. Agricultural expansion", "B. The need for paper", "C. The need for shelter"],
+           ["A. Amount of habits", "B. Amount of unique animals in an area", "C. Global Warming becomes worse",
+            "D. Fish will not be able to grow"],
+           ["A. Selective Cutting", "B. Clear Cutting "],
+           ["A. Selective Cutting", "B. Clear Cutting "],
+           ["A. Water", "B. Carbon Dioxide", "C. Sunlight", "D. Oxygen"]]
